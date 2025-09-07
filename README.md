@@ -12,7 +12,7 @@
 A Laravel starter project with Blade template and built-in user role management. Includes authentication, role-based access control, and a clean Blade layout to speed up new Laravel project development.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/public/preview.png" alt="Preview" width="600">
+  <img src="https://raw.githubusercontent.com/abdulwahidkahar/laravel-base-role-blade/master/public/preview.png" alt="Preview" width="600">
 </p>
 
 ## Setup
